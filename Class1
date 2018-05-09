@@ -46,10 +46,8 @@ BeautifulSoup
 
 <test_automation>
 
-Selecting an automated testing tool is essential for test automation. 
-There are a lot of automated testing tools on the market, 
-and it is important to choose the automated testing tool that best suits your overall requirements.
-
+Selenium first came to life in 2004 when Jason Huggins was testing an internal application at ThoughtWorks. Being a smart guy, 
+he realized there were better uses of his time than manually stepping through the same tests with every change he made.
 
 Test Automation Lecture Notes
 
