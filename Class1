@@ -45,16 +45,8 @@ BeautifulSoup
 </Lecture> 
 
 <test_automation>
-You can get the most benefit out of your automated testing efforts by automating:
 
-Repetitive tests that run for multiple builds.
-Tests that tend to cause human error.
-Tests that require multiple data sets.
-Frequently used functionality that introduces high risk conditions.
-Tests that are impossible to perform manually.
-Tests that run on several different hardware or software platforms and configurations.
-Tests that take a lot of effort and time when manual testing.
-
+One of Selenium’s key features is the support for executing one’s tests on multiple browser platforms.
 
 
 Test Automation Lecture Notes
